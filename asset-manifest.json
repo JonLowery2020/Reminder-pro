@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.590aa782.chunk.css",
-    "main.js": "/static/js/main.e3275a6c.chunk.js",
-    "main.js.map": "/static/js/main.e3275a6c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.03cbf824.js",
-    "runtime-main.js.map": "/static/js/runtime-main.03cbf824.js.map",
-    "static/js/2.46805a63.chunk.js": "/static/js/2.46805a63.chunk.js",
-    "static/js/2.46805a63.chunk.js.map": "/static/js/2.46805a63.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.590aa782.chunk.css.map": "/static/css/main.590aa782.chunk.css.map",
-    "static/js/2.46805a63.chunk.js.LICENSE.txt": "/static/js/2.46805a63.chunk.js.LICENSE.txt"
+    "main.css": "/JonLowery2020/Reminder-pro/static/css/main.590aa782.chunk.css",
+    "main.js": "/JonLowery2020/Reminder-pro/static/js/main.e3275a6c.chunk.js",
+    "main.js.map": "/JonLowery2020/Reminder-pro/static/js/main.e3275a6c.chunk.js.map",
+    "runtime-main.js": "/JonLowery2020/Reminder-pro/static/js/runtime-main.c7730ce6.js",
+    "runtime-main.js.map": "/JonLowery2020/Reminder-pro/static/js/runtime-main.c7730ce6.js.map",
+    "static/js/2.46805a63.chunk.js": "/JonLowery2020/Reminder-pro/static/js/2.46805a63.chunk.js",
+    "static/js/2.46805a63.chunk.js.map": "/JonLowery2020/Reminder-pro/static/js/2.46805a63.chunk.js.map",
+    "index.html": "/JonLowery2020/Reminder-pro/index.html",
+    "static/css/main.590aa782.chunk.css.map": "/JonLowery2020/Reminder-pro/static/css/main.590aa782.chunk.css.map",
+    "static/js/2.46805a63.chunk.js.LICENSE.txt": "/JonLowery2020/Reminder-pro/static/js/2.46805a63.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.03cbf824.js",
+    "static/js/runtime-main.c7730ce6.js",
     "static/js/2.46805a63.chunk.js",
     "static/css/main.590aa782.chunk.css",
     "static/js/main.e3275a6c.chunk.js"
